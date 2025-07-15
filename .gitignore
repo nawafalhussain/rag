@@ -1,0 +1,7 @@
+# Ignore a specific folder
+chroma_db/
+data/
+new_chroma_db/
+new_chroma_db_dpf/
+new_chroma_db_dpf_arabic/
+uploaded_files/
